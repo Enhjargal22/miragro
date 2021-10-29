@@ -36,6 +36,7 @@ iframe{
 }
 video{
     position: absolute;
+    max-width: 100%;
 }
 .text{
     position: absolute;
